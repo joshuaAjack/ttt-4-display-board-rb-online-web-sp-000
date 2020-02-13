@@ -2,20 +2,20 @@
 # out the current state.
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board(board)
-  puts "   |   |   " == rows[0]
-  puts "-----------" == rows[1]
-  puts "   |   |   " == rows[2]
-  puts "-----------" == rows[3]
-  puts "   |   |   " == rows[4]
+  puts "   |   |   " == [0]
+  puts "-----------" == [1]
+  puts "   |   |   " == [2]
+  puts "-----------" == [3]
+  puts "   |   |   " == [4]
 
  end
 
  center_x = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
  def display_board(center_x)
-  puts "   |   |   " == rows[0]
-  puts "-----------" == rows[1]
-  puts "   | X |   " == rows[2]
-  puts "-----------" == rows[3]
-  puts "   |   |   " == rows[4]
+  puts "   |   |   " == [0]
+  puts "-----------" == [1]
+  puts "   | X |   " == [2]
+  puts "-----------" == [3]
+  puts "   |   |   " == [4]
   
  end
