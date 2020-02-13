@@ -3,10 +3,10 @@
 
 board_blank = [" "," "," "," "," "," "," "," "," "]
 def display_board(board_blank)
-  puts "   |   |   " == rows 
-  puts "-----------" == rows 
-  puts "   |   |   " == rows 
-  puts "-----------" == rows 
-  puts "   |   |   " == rows 
+  puts "   |   |   "  
+  puts "-----------" 
+  puts "   |   |   " 
+  puts "-----------" 
+  puts "   |   |   " 
 
  end
