@@ -15,7 +15,7 @@ def display_board(board_blank)
  def display_board(center_x)
   puts "   |   |   " 
   puts "-----------" 
-  puts "   | x |   " == 
+  puts "   | x |   " == "   | x |   "
   puts "-----------"
   puts "   |   |   " 
   
