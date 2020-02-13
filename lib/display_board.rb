@@ -10,3 +10,12 @@ def display_board(board_blank)
 
  end
 
+board_x = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+
+  puts "   |   |   " 
+  puts "-----------" 
+  puts "   | x |   " 
+  puts "-----------" 
+  puts "   |   |   " 
+   
+ end
