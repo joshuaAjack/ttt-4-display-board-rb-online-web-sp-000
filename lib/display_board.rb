@@ -9,6 +9,7 @@ def display_board(board)
   puts "   |   |   " == rows[5]
 
  end
+
  center_x = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
  def display_board(center_x)
   puts "   |   |   " == rows[0]
@@ -16,3 +17,5 @@ def display_board(board)
   puts "   | X |   " == rows[3]
   puts "-----------" == rows[4]
   puts "   |   |   " == rows[5]
+  
+ end
