@@ -10,7 +10,7 @@ def display_board(board)
 
  end
  
- board = [" "," "," "," "," x"," "," "," "," "]
+ board = [" "," "," "," ","x"," "," "," "," "]
  def display_board(board)
   puts "   |   |   " == rows[0]
   puts "-----------" == rows[2]
