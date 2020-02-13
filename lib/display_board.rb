@@ -1,6 +1,6 @@
 # Define display_board that accepts a board and prints
 # out the current state.
- output = capture_puts{ display_board(board) }
+ output = capture_puts{ display_board(board_blank) }
       rows = output.split
 
 board_blank = [" "," "," "," "," "," "," "," "," "]
